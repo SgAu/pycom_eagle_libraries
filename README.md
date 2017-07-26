@@ -10,4 +10,4 @@ Download: [W01 WiPy OEM Library File](W01_WiPy_OEM.lbr)
 
 ## L01 LoPy OEM Eagle Library
 Download: [L01 LoPy OEM Library File](L01_LoPy_OEM.lbr)
-![L01 LoPy OEM Library](images/l01_LoPy_OEM.png)
+![L01 LoPy OEM Library](images/L01_LoPy_OEM.png)
